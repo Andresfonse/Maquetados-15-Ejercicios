@@ -11,16 +11,16 @@
 -	AUTOR: Andres De Avila
 -	OBJETIVO: Lograr maquetar ejercicios de html 5
 -	VERSION: 1.4 (version 4)
--	
+
 -	FECHA DE CREACION DE README: 12 agosto 2022
--	
+
 | Ejercicios de HTML 5| Detalles |
 | --- | --- |
 | Ejercicios Maquetados  | Maquetados y con Imagenes Adjunatadas  |
 | Documentados  | Breve docmentacion y diseño W3C
 |
 
--- Maquetado CSS3	NO CHANGES
+- Maquetado CSS3	NO CHANGES
 NINGUN CAMBIO MUY IMPORTANTE O NOTABLE **EJERCICIOS DE HTML 5 CON DISEÑO Y MAQUETADOS **
 
 #Maqueta 1.0
