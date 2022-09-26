@@ -96,4 +96,12 @@ NINGUN CAMBIO MUY IMPORTANTE O NOTABLE **EJERCICIOS DE HTML 5 CON DISEÑO Y MAQU
 
 ![image](https://user-images.githubusercontent.com/110643161/192338937-13b1a94b-9c07-479b-a795-016402f0c94e.png)
 
+ #Maquetado BOOSTRAP 
+ - Ejercicios Boostrap Grid documentados con diseño CSS 3 Certificacion W3C y sitios Responsive 
+ - ¿Mision de estos Sitios Boostrap?
+ - se tiene un mayor control sobre la forma de visualizar la web desde todos los dispositivos, eliminando la posibilidad de mostrar mal el contenido en algún dispositivo y dando un mayor control sobre la experiencia que tendrán los usuarios en la web accedan desde el navegador que accedan.
+ - Objetivo : es posibilitar una correcta visualización de un sitio web en diferentes dispositivos ya sea telefonos Android hasta pantalla 4K
+ - ![image](https://user-images.githubusercontent.com/110643161/192341420-e2a4d833-173d-4615-91c4-2df29e903d0f.png)
  
+ -Our code is according to the specifications given by the tutor and look for any way to improve these sites :neckbeard: :neckbeard: 
+
