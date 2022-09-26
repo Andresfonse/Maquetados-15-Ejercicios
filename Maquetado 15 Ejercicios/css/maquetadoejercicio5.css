@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 1000px;
+    height: 1200px;
+    background-color: darksalmon;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Header {
+    width: 1000px;
+    height: 200px;
+    background: url(https://media.istockphoto.com/id/488239848/es/foto/cyber-ataque-a10.webp?s=612x612&w=is&k=20&c=OASEdqRRIygX7d9yUiI2678YA31pSnHF3dYzafv1RdY=)
+}
+
+
+#Enc {
+    position: relative;
+    left: 320px;
+    top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: darkseagreen;
+}
+
+#Nav {
+    width: 1000px;
+    height: 100px;
+    background-color: darkslateblue;
+}
+
+#Men {
+    position: relative;
+    left: 400px;
+    top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: darkkhaki;
+
+}
+
+
+
+#Main {
+    width: 1000px;
+    height: 900px;
+    background-color: mediumseagreen;
+}
+
+#cue {
+    position: relative;
+    left: 4px;
+    top: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30;
+    color: blanchedalmond;
+}
+
+#Footer {
+    width: 1000px;
+    height: 100px;
+    background-color: mediumslateblue;
+}
+
+
+#pie {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: aquamarine;
+}
