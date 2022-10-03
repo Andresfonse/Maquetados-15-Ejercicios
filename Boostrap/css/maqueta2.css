@@ -1,0 +1,30 @@
+#casilla1{
+background-color: palevioletred;
+    border:2px solid rgb(255, 255, 255);
+
+}
+#casilla2{
+background-color: darkgreen;
+    height: 200px;
+    border: 2px solid rgb(255, 255, 255);
+}
+#casilla3{
+background-color: brown;
+    height: 200px;
+    border: 2px solid rgb(255, 255, 255);
+}
+#casilla4{
+background-color: chartreuse;
+    height: 200px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+#casilla5{
+background-color: darkcyan;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+#casilla6{
+background-color: indianred;
+    border: 2px solid rgb(255, 255, 255);
+}

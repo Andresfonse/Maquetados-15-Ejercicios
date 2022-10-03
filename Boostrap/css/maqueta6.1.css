@@ -1,0 +1,101 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#col1 {
+
+
+    border: 1px solid rgb(0, 0, 0);
+    float: left;
+}
+
+#cards {
+    background-color: rgb(165, 165, 165);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+#col2 {
+
+
+    border: 1px solid rgb(0, 0, 0);
+    float: left;
+}
+
+#col3 {
+
+    background-color: darkgray;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#col4 {
+    background-color: darkgray;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#col5 {
+    background-color: darkgray;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#col6 {
+
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgray;
+    color: aliceblue;
+}
+
+#col7 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    align-items: center;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    color: rgb(0, 0, 0);
+
+}
+
+#col8 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    align-items: center;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    color: rgb(0, 0, 0);
+}
+
+#col9 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    align-items: center;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    color: rgb(0, 0, 0);
+}
+
+#col10 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    align-items: center;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    color: rgb(0, 0, 0);
+}
+
+#col11 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    align-items: center;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    color: rgb(0, 0, 0);
+}
+
+#pl {
+    background-color: darkgray;
+}

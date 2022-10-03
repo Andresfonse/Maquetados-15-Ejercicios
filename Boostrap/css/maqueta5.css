@@ -1,0 +1,65 @@
+
+#col1{
+color: rgba(0, 0, 0, 0.356);
+    font-size: 40px;
+    background-color: rgb(243, 182, 131);
+
+   
+}
+#col2{
+    font-size: 40px;
+    color: rgba(47, 0, 255, 0.199);
+    background-color: rgb(208, 241, 163);
+    align-items: center;
+    text-align: center;
+}
+#col3{
+    background-color: rgb(192, 245, 176);
+    align-items: center;
+   
+}
+
+#col4{
+    background-color:rgb(230, 216, 154);
+    align-items: center;
+    text-align: center;
+   
+  
+}
+
+#texto{
+text-align: center;
+    align-content: center;
+
+}
+
+#col6{
+     
+  background-color: rgb(230, 159, 218);
+  float: left;
+
+}
+#col7{
+    background-color: rgb(233, 178, 164);
+    float:right
+}
+#col8{
+ background-color: rgb(195, 168, 221);
+   float:right
+}
+#col9{
+ 
+    float:right;
+   
+}
+
+#h{
+    background-color: rgb(231, 182, 167);
+    text-align:justify;
+}
+
+@media(max-width:770px){
+    #col-3{
+        height: 300px;
+    }
+}
