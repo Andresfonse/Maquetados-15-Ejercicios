@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Ejercicio14</title>
+    <link rel="stylesheet" href="./css/maquetadoejercicio14.css">
+
+</head>
+
+<body>
+
+    <div id="container">
+        <div id="Header">
+            <h1 id="Enc">Ficha:2558346</h1>
+
+        </div>
+        <div id="Nav">
+            <h1 id="Men">Ejercicio14</h1>
+
+        </div>
+        <div id="Main">
+            <h3 id="cue">Rellena tu CV</h3>
+            <br>
+            <form action="/php/insertar_CV.php" method="post" enctype="multipart/form-data">
+                <fieldset>
+                    <legend class="cue">Datos Personales </legend>
+                    <label class="cue" for="provincia">Provincia</label><br />
+                    <select id="provincia" name="provincia">
+
+                        <option value="selected=selected">-selecciona-</option>
+                        <option value="01">Alava/Araba</option>
+                        <option value="02">Albacete</option>
+                        <option value="03">Alicante/Alacanta</option>
+                        <option value="04">Almeria</option>
+                        <option value="33">Asturias</option>
+                        <option value="05">Avila</option>
+                        <option value="06">Badajoz</option>
+                        <option value="07">Balears (illes)</option>
+                        <option value="08">Barcelona</option>
+                        <option value="09">Burgos</option>
+                        <option value="10">Caceres</option>
+                        <option value="11">Cadiz</option>
+                        <option value="39">Cantabria</option>
+                        <option value="12">Castellon</option>
+                        <option value="51">Ceuta</option>
+                        <option value="13">Ciudad Real</option>
+                        <option value="14">Cordoba</option>
+                        <option value="15">Coruña</option>
+                        <option value="16">Cuenca</option>
+                        <option value="16">cuenca</option>
+                        <option value="17">Girona</option>
+                        <option value="18">Granada</option>
+                        <option value="19">Guadalajara</option>
+                        <option value="20">Gulpozcoa</option>
+                        <option value="21">Huelva</option>
+                        <option value="22">Huesca</option>
+                        <option value="23">Jaen</option>
+                        <option value="24">leon</option>
+                        <option value="27">Lugo</option>
+                        <option value="25">Lleida</option>
+                        <option value="28">Madrid</option>
+                        <option value="29">Malaga</option>
+                        <option value="52">Melilla</option>
+                        <option value="30">Murcia</option>
+                        <option value="31">Navarra</option>
+                        <option value="32">Ourense</option>
+                        <option value="34">Palencia</option>
+                        <option value="35">Palmas (las)</option>
+                        <option value="36">Pontevedra </option>
+                        <option value="26">Rioja (la)</option>
+                        <option value="37">Salamanca</option>
+                        <option value="38">Santa cruz</option>
+                        <option value="40">Segovia</option>
+                        <option value="41">Sevilla</option>
+                        <option value="42">Soria</option>
+                        <option value="43">Tarragona</option>
+                        <option value="44">Teruel</option>
+                        <option value="45">Toledo</option>
+                        <option value="46">Valencia</option>
+                        <option value="47">Vallaloid</option>
+                        <option value="48">Vizcaya</option>
+                        <option value="49">Zamora</option>
+                        <option value="50">Zaragoza</option>
+
+                    </select>
+                    <br><br />
+                    <label class="g" for="fecha_dia"> Fecha de nacimiento</label><br />
+                    <input type="text" size="3" maxlength="2" id="fecha_dia" name="fecha_dia" />
+                    De
+                    <select id="fecha_mes" name="fecha_mes">
+                        <option class="g" value="01">Enero</option>
+                        <option value="02">Febrero</option>
+                        <option value="03">Marzo</option>
+                        <option value="04">Abril</option>
+                        <option value="05">Mayo</option>
+                        <option value="06">Junio</option>
+                        <option value="07">Julio</option>
+                        <option value="08">Agosto</option>
+                        <option value="09">Septiembre</option>
+                        <option value="10">Octubre</option>
+                        <option value="11">Noviembre </option>
+                        <option value="12">Diciembre</option>
+                    </select>
+
+                    de
+                    <input type="text" size="5" maxlength="4" id="fecha_ano" name="fecha_ano" />
+                    <br><br />
+                    <label class="g" for="temasdeinteres">Temas de Interes</label><br />
+                    <select multiple="multiple" size="5" id="temasdeinteres" name="temasdeinteres">
+                        <option value="3105">Administracion de base de datos</option>
+                        <option value="3106">Analisis y programacion</option>
+                        <option value="3107">Arquitectura</option>
+                        <option value="3108">Calidad</option>
+                        <option value="3109">ERP,CRM,Bussines intelligence</option>
+                        <option value="3110">Gestion de proyectos </option>
+                        <option value="3111">Hardaware,redes y seguridad </option>
+                        <option value="3112">Helpdesk</option>
+                        <option value="3113">Sistemas</option>
+                        <option value="3114">Telecomunicaciones</option>
+                    </select>
+
+                </fieldset>
+            </form>
+        </div>
+
+        <div id="Footer">
+            <h1 id="pie">Cristian Andres De Avila Fonseca </h1>
+            <h1 id="pie"> Derechos reservados ADSO-2022 </h1>
+            <br>
+            <p>
+                <a href="http://jigsaw.w3.org/css-validator/check/referer">
+                    <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss"
+                        alt="¡CSS Válido!" />
+                </a>
+            </p>
+
+
+        </div>
+
+    </body>
+
+</html>
